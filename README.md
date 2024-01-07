@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maleesha-devindi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maleesha-devindi" height="30" width="40" /></a>
-<a href="https://fb.com/Maleesha Devindi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Maleesha Devindi" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61555141599479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Maleesha Devindi" height="30" width="40" /></a>
 </p>
 
 
