@@ -11,6 +11,12 @@
 - 📫 How to reach me **devindi.kumarage@gmail.com**
 
 - ⚡ Fun fact **My computer's favorite snack is cookies, and its favorite beverage is Java.**
+
+---
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MaleeshaDevindi" alt="MaleeshaDevindi" /></a> </p>
+
+---
   
 ## My Statistics 🚀
 ![MaleeshaDevindi's github stats](https://github-readme-stats.vercel.app/api?username=MaleeshaDevindi&show_icons=true&theme=tokyonight)
