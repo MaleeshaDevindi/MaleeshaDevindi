@@ -20,7 +20,6 @@
   
 ## My Statistics 🚀
 ![MaleeshaDevindi's github stats](https://github-readme-stats.vercel.app/api?username=MaleeshaDevindi&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaleeshaDevindi&theme=tokyonight" alt="mystreak"/>
 ![MaleeshaDevindi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaleeshaDevindi&theme=tokyonight&layout=compact)
 
 
