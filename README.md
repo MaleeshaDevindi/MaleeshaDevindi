@@ -4,7 +4,7 @@
 ---
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" align="right" width=250px height=175px/>
 
-- 🌱 I’m currently learning **Mobile Application Development**
+- 🌱 I’m currently studying **new frameworks**
 
 - 💬 Ask me about **Web Development**
   
