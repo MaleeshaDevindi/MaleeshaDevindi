@@ -19,15 +19,13 @@
 ---
   
 ## My Statistics 🚀
-![MaleeshaDevindi's github stats](https://github-readme-stats.vercel.app/api?username=MaleeshaDevindi&show_icons=true&theme=tokyonight)
+
 ![MaleeshaDevindi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaleeshaDevindi&theme=tokyonight&layout=compact)
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="androidStudio" width="40" height="40"/>
-  </a>
+  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/>
   </a>
